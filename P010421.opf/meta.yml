@@ -10,73 +10,88 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 708
+      base_file: v001.txt
     168633022f434138a5e248a6ba9a9a83:
       image_group_id: I3PD367
       title: ''
       volume_number: 2
       total_pages: 856
+      base_file: v002.txt
     f268e67e1ab54b42b1e1608f9a117a6b:
       image_group_id: I3PD368
       title: ''
       volume_number: 3
       total_pages: 842
+      base_file: v003.txt
     0dda8ded3fe24324bf757c765be35d93:
       image_group_id: I3PD369
       title: ''
       volume_number: 4
       total_pages: 1026
+      base_file: v004.txt
     e39509edfeeb4b80880d4e86c5f36289:
       image_group_id: I3PD370
       title: ''
       volume_number: 5
       total_pages: 958
+      base_file: v005.txt
     672e0a39651e40238dd9dab69cf3bd7a:
       image_group_id: I3PD371
       title: ''
       volume_number: 6
       total_pages: 930
+      base_file: v006.txt
     459cf46947424bdcb00dffb547878072:
       image_group_id: I3PD372
       title: ''
       volume_number: 7
       total_pages: 846
+      base_file: v007.txt
     aa1883617f2c41d2b1126db7399948b6:
       image_group_id: I3PD373
       title: ''
       volume_number: 8
       total_pages: 794
+      base_file: v008.txt
     1048f9401fb5473bba718b0de649b74b:
       image_group_id: I3PD374
       title: ''
       volume_number: 9
       total_pages: 698
+      base_file: v009.txt
     f6095762afd44176bf4a571b2cf5fe5d:
       image_group_id: I3PD375
       title: ''
       volume_number: 10
       total_pages: 706
+      base_file: v010.txt
     f363826e91194d31903168789cdba014:
       image_group_id: I3PD376
       title: ''
       volume_number: 11
       total_pages: 670
+      base_file: v011.txt
     6d96889364cd4e40870e45841a087683:
       image_group_id: I3PD377
       title: ''
       volume_number: 12
       total_pages: 770
+      base_file: v012.txt
     5b9c664fdb8c43b7a6a04a044b1ac0d8:
       image_group_id: I3PD378
       title: ''
       volume_number: 13
       total_pages: 798
+      base_file: v013.txt
     9fc1fca2f2a641d4b313ca7a25acb695:
       image_group_id: I3PD379
       title: ''
       volume_number: 14
       total_pages: 462
+      base_file: v014.txt
     38ee0d63fee845b9aadf628d93b7630f:
       image_group_id: I3PD380
       title: ''
       volume_number: 15
       total_pages: 654
+      base_file: v015.txt
