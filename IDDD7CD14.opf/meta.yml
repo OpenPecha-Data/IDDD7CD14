@@ -1,0 +1,111 @@
+id: IDDD7CD14
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T02:35:23+00:00'
+last_modified: '2022-06-08T13:29:05.155780+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1AC320
+  title: ཚོགས་ཤུལ་བླ་མ་ནོར་བུ་བསྟན་འཛིན་གྱི་གསུང་འབུམ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    '0752':
+      image_group_id: I3PD366
+      title: ''
+      total_pages: 708
+      order: 1
+      base_file: 0752.txt
+    0691:
+      image_group_id: I3PD367
+      title: ''
+      total_pages: 856
+      order: 2
+      base_file: 0691.txt
+    '4049':
+      image_group_id: I3PD368
+      title: ''
+      total_pages: 842
+      order: 3
+      base_file: 4049.txt
+    0B7B:
+      image_group_id: I3PD369
+      title: ''
+      total_pages: 1026
+      order: 4
+      base_file: 0B7B.txt
+    A4C5:
+      image_group_id: I3PD370
+      title: ''
+      total_pages: 958
+      order: 5
+      base_file: A4C5.txt
+    9FDC:
+      image_group_id: I3PD371
+      title: ''
+      total_pages: 930
+      order: 6
+      base_file: 9FDC.txt
+    F8D1:
+      image_group_id: I3PD372
+      title: ''
+      total_pages: 846
+      order: 7
+      base_file: F8D1.txt
+    663E:
+      image_group_id: I3PD373
+      title: ''
+      total_pages: 794
+      order: 8
+      base_file: 663E.txt
+    10A5:
+      image_group_id: I3PD374
+      title: ''
+      total_pages: 698
+      order: 9
+      base_file: 10A5.txt
+    '2471':
+      image_group_id: I3PD375
+      title: ''
+      total_pages: 706
+      order: 10
+      base_file: 2471.txt
+    907D:
+      image_group_id: I3PD376
+      title: ''
+      total_pages: 670
+      order: 11
+      base_file: 907D.txt
+    AD83:
+      image_group_id: I3PD377
+      title: ''
+      total_pages: 770
+      order: 12
+      base_file: AD83.txt
+    778A:
+      image_group_id: I3PD378
+      title: ''
+      total_pages: 798
+      order: 13
+      base_file: 778A.txt
+    EC5F:
+      image_group_id: I3PD379
+      title: ''
+      total_pages: 462
+      order: 14
+      base_file: EC5F.txt
+    '6740':
+      image_group_id: I3PD380
+      title: ''
+      total_pages: 654
+      order: 15
+      base_file: 6740.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
